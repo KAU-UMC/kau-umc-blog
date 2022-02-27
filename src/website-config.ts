@@ -54,8 +54,8 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Ghost',
-  description: 'The professional publishing platform',
+  title: '한국항공대 UMC BLOG',
+  description: '안녕하세요! 한국항공대 UMC입니다😄',
   coverImage: 'img/blog-cover.png',
   logo: 'img/ghost-logo.png',
   lang: 'en',

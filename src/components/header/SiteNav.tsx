@@ -228,6 +228,7 @@ const NavStyles = css`
   li a:hover {
     text-decoration: none;
     opacity: 1;
+    color: ${colors.pointcolor};
   }
 
   li a:before {
@@ -237,7 +238,7 @@ const NavStyles = css`
     bottom: 8px;
     left: 12px;
     height: 1px;
-    background: #fff;
+    background: ${colors.pointcolor};
     opacity: 0.25;
     transition: all 0.35s ease-in-out;
   }
