@@ -1,10 +1,14 @@
 ---
 layout: post
 title: 'Welcome to Ghost'
-author: [Ghost]
-tags: ['Getting Started']
+author: [Charles]
+tags: 
+- android
+- ios
+- server
+- web
 image: img/welcome-to-ghost.jpg
-date: '2018-05-06T23:46:37.121Z'
+date: '2018-08-30T07:03:47.149Z'
 draft: false
 excerpt: Welcome, it's great to have you here. We know that first impressions are important, so we've populated your new site with some initial getting started posts that will help you get familiar with everything in no time.
 ---
